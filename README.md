@@ -1,6 +1,6 @@
 # Hi there! 👋 I'm Isaac
 
-I'm a passionate **Computer Engineering** undergraduate student with a keen interest in **DevOps**, **UX/UI**, and **Photography**. When I'm not coding or designing, you'll find me exploring the galaxy far, far away with my fellow Jedi knights. 🌌
+I'm a passionate **Computer Engineering** undergraduate student with a keen interest in **Software Engineering**, **UX/UI**, and **Photography**. When I'm not coding or designing, you'll find me exploring the galaxy far, far away with my fellow Jedi knights. 🌌
 
 ## About Me
 
@@ -13,7 +13,6 @@ I'm a passionate **Computer Engineering** undergraduate student with a keen inte
 ## Tech Stack
 
 - **Languages**: Python, Java, C
-- **DevOps Tools**: Docker, Kubernetes, Jenkins
 - **Design Tools**: Figma, Canva
 
 ## Connect with Me
