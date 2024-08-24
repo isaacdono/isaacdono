@@ -21,4 +21,4 @@ Sou um desenvolvedor Full Stack apaixonado por tecnologia e inovação. Gosto de
 ### 🌱 Estou Aprendendo
 
 Atualmente, estou aprimorando meus conhecimentos em:
-- React, Node.js, REST
+- Linux
