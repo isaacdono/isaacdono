@@ -2,9 +2,11 @@
 
 Bem-vindo ao meu perfil no GitHub!
 
+<!--
 ### Sobre Mim
 
-Sou um desenvolvedor Full Stack apaixonado por tecnologia e inovação. Gosto de criar soluções eficientes e impactantes utilizando minhas habilidades em desenvolvimento web e design. Sempre busco aprender novas tecnologias e aprimorar minhas habilidades.
+Sou um desenvolvedor.
+-->
 
 ### 🚀 Minhas Habilidades
 <!--
