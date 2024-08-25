@@ -15,10 +15,6 @@ Sou um desenvolvedor.
 -->
 - **SO e linguagens**
   - Linux, Python
-- **Metodologias de gestão**
-  - Lean Six Sigma Yellow Belt
-- **Design e Edição de Imagens**
-  - Lightroom, <!--Photoshop,--> Figma
 
 ### 🌱 Estou Aprendendo
 
