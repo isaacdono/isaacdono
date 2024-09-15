@@ -5,7 +5,3 @@
   - Experience with **version control** and **CI/CD pipelines**
 - **Programming** 💻
   - Proficient in **C** and **Python**
-- **Current learning** 📚
-  - Focused on **Full Stack Development** with **Flask**
-  - Specializing in **routing** and web application fundamentals
-  
