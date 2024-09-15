@@ -1,22 +1,14 @@
-# Olá, Mundo! Eu sou Isaac 👋
+### About Me
 
-Bem-vindo ao meu perfil no GitHub!
+- **Computer Engineering undergrad** with a passion for technology and development.
 
-<!--
-### Sobre Mim
+- **DevOps skills**:
+  - Foundation in **Linux**, **scripting**, and **networking**.
+  - Experience with **version control** and **CI/CD pipelines**.
 
-Sou um desenvolvedor.
--->
+- **Programming**:
+  - Proficient in **C** and **Python**.
 
-### 🚀 Minhas Habilidades
-<!--
-- **Desenvolvimento Web**
-  - React, Node.js, REST
--->
-- **SO e linguagens**
-  - Linux, Python
-
-### 🌱 Estou Aprendendo
-
-Atualmente, estou aprimorando meus conhecimentos em:
-- Linux
+- **Current learning**:
+  - Focused on **Full Stack Development** with **Flask**.
+  - Specializing in **routing** and web application fundamentals.
